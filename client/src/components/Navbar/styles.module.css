@@ -1,0 +1,132 @@
+.nav {
+    padding: 13px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #e2e8f0;
+    align-items: center;
+    
+}
+
+.nav .left {
+    display: flex;
+}
+.nav .left .menu {
+    display: flex;
+    margin-left: 40px;
+}
+          
+.menu li a {   
+    color: #4a5568;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 3px 16px;
+    display: block;
+
+}
+
+.menu li a:hover {
+    color: black;
+}
+
+.right {
+    display: flex;
+    gap: 8px;
+}
+
+.card {
+    padding: 16px;
+}
+
+.homepage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    margin-top: 48px;
+
+}
+.logo {
+    font-weight: 800;
+    
+}
+.error {
+    color: red;
+    font-weight: 600;
+}
+
+.successEntry {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 48px;
+    gap: 16px;
+
+}
+.successEntry h1 {
+    font-size: 36px;
+}
+.successEntry h2 {
+    font-size: 24px;
+}
+.successEntry h3 {
+    font-style: italic;
+    font-size: 16px;
+}
+.proDetail {
+    display: flex;
+    gap: 12px;
+}
+.proDetail > *{
+    flex: 1;
+}
+.proImage {
+    flex: 1.5;
+}
+.proDesc {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 26px;
+    margin-right: 16px;
+    padding: 3px;
+    
+
+}
+.proDesc p {
+    line-height: 2;
+    margin-bottom: 20px;
+}
+.proDesc button {
+    width: 60%;
+}
+.basket {
+    display: flex;
+}
+.basket > * {
+    flex: 1;
+}
+.basketLeft {
+    flex: 3;
+}
+
+.basketRight {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 64px auto;
+    font-size: 30px;
+}
+
+.basketList {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+
+.adminMenu {
+    display: flex;
+}
