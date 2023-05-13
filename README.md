@@ -9,7 +9,9 @@ React E-Commerce App Features...
 
 -Grid and Slide view of products.
 -Dynamic product detail view specific to GridView and SlideView.
+
 -Dynamic navbar specific to user role (Visitor, User, Admin).
+
 -Adding products, deleting products, updating products, viewing orders, deleting orders via Admin Panel.
 
 
