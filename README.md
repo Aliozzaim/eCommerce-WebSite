@@ -5,20 +5,30 @@ E-Commerce Site
 ![231282596-93de87a7-737f-4345-b360-131e7ee35077](https://github.com/Aliozzaim/eCommerce-WebSite/assets/125793435/0215d7e4-5532-4c0d-8adc-5c0b55a2679c)
 
 
-React E-Commerce App Features
--Grid and Slide view of products
+React E-Commerce App Features...
 
--Dynamic product detail view specific to GridView and SlideView
--Dynamic navbar specific to user role (Visitor, User, Admin)
--Adding products, deleting products, updating products, viewing orders, deleting orders via Admin Panel
+-Grid and Slide view of products.
+
+-Dynamic product detail view specific to GridView and SlideView.
+
+-Dynamic navbar specific to user role (Visitor, User, Admin).
+
+-Adding products, deleting products, updating products, viewing orders, deleting orders via Admin Panel.
+
 
 Tools
 -ReactJS
+
 -React Query
+
 -Chakra-Ui
+
 -Ant Design
+
 -React Bootstrap
+
 -Context API
+
 -Formik
 
 User Product Page
