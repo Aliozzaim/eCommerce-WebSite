@@ -17,12 +17,21 @@ React E-Commerce App Features...
 
 
 Tools
+
+
+
 -ReactJS
+
 -React Query
+
 -Chakra-Ui
+
 -Ant Design
+
 -React Bootstrap
+
 -Context API
+
 -Formik
 
 User Product Page...
